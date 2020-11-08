@@ -18,5 +18,5 @@ _add in **line 13** the name of the file created by the first script_
 
 ###### TimeAnalysis.py
 
-THis script shows a bbar graph of the timing in which the twitter posts their tweets.
+This script shows a bar graph of the timing in which the twitter user posts their tweets.
 _add in **line 4** the name of the file that was created bby script 1_
